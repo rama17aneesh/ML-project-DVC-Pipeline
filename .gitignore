@@ -3,5 +3,4 @@
 /train.joblib
 /test.joblib
 /model.joblib
-/results.yaml
 /IMDB_Dataset.csv
